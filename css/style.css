@@ -34,6 +34,9 @@ body {
 #authors .fab {
   color: #fff; }
 
+#about .card {
+  cursor: pointer; }
+
 @media (max-width: 768px) {
   #showcase {
     min-height: 500px; }
